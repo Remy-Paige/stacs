@@ -36,7 +36,18 @@
   {
    "id": "72304f2f-9137-d16f-3141-5d87f393ef4e",
    "title": "problem solve",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "webgame/a-bc.html",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/problem-solve-7230.md",
