@@ -1,0 +1,95 @@
+{
+ "sections": [
+  {
+   "id": "b5666a67-b9c0-e82f-6e15-f07d81ffa2e9",
+   "title": "intro",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/intro-b566.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ff7890c6-8a8a-50b7-6456-658d3627f43",
+   "title": "map",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/map-ff78.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a5191b4e-39b8-b965-d1b0-3d3878cb33a",
+   "title": "algorithm",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/algorithm-a519.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "72304f2f-9137-d16f-3141-5d87f393ef4e",
+   "title": "problem solve",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/problem-solve-7230.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "4d49d4ce-70f9-a9ee-6e8b-44756afdda3",
+   "title": "problem solve",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/problem-solve-4d49.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7cc03b33-f5d7-88b0-f33d-523adf04ce5b",
+   "title": "hogroast",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/hogroast-7cc0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2fcf7f3b-d4ea-3b8c-8189-380d41a220a3",
+   "title": "London",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/London-2fcf.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "815a3fea-dbb8-9f77-7462-e2c92df94c94",
+   "title": "ASTAR",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/ASTAR-815a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
