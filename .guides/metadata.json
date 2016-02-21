@@ -1,34 +1,23 @@
 {
  "sections": [
   {
-   "id": "443f3843-e8c2-13a9-cb07-ac6a80993591",
+   "id": "da2de76e-5545-46e8-7f25-cdd1272d818c",
    "title": "Section 1",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "helloworld.py",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
+   "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Section-1-443f.md",
+   "content-file": ".guides/content/Section-1-da2d.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
-   "id": "3f4affbf-3b80-b57-d429-405d9b8286c3",
+   "id": "e8a308b-64f1-12e9-f77a-979ffb9915de",
    "title": "Section 2",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Section-2-3f4a.md",
+   "content-file": ".guides/content/Section-2-e8a3.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
