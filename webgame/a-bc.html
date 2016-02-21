@@ -62,8 +62,10 @@
             el.innerHTML = '<div>codio takes 20 minutes</div>';
         }
       function goback(){
+        document.getElementById("goback").style.display = "none";
         document.getElementById("clock").style.display = "none";
         document.getElementById("gotoC").style.display = "none";
+        document.getElementById("Apaper").style.display = "";
                     var el = document.getElementById('insertHere');
             el.innerHTML = '<div>hes written the shorest total path on his hand, so he throws the paper away to update his to-do list</div><div>shortest - A-B = 10mins</div>';
       }
@@ -83,9 +85,6 @@
     <div id = "insertHere">
       
   </div>
-    
-    <input type="submit" style="display: none;" id="yes2" value="Path to D" onclick="showImg2()"/>
-    <input type="submit" style="display: none;" id="no2" value="Path to E" onclick="wrong()"/>    
 
 
 </body>

@@ -41,31 +41,33 @@
 
 </style>
     <script>
-        function gotoB() {
-        	document.getElementById("AB").style.display = "none";
+        function gotoD() {
+        	document.getElementById("BD").style.display = "none";
             //document.getElementById("AC").style.display = "none"; 
-        	document.getElementById("gotoB").style.display = "none";
+        	document.getElementById("gotoD").style.display = "none";
           
           	document.getElementById("clock").style.display = "";
             var el = document.getElementById('insertHere');
-            el.innerHTML = '<div>hackcampus takes 10 minutes</div>';
+            el.innerHTML = '<div> Bloomberg takes 15 minutes</div>';
         }
-        function gotoC() {
+        function gotoE() {
           
-        	document.getElementById("AB").style.display = "none";
-            document.getElementById("AC").style.display = "none"; 
-        	document.getElementById("gotoB").style.display = "none";
-        	document.getElementById("gotoC").style.display = "none";
+        	document.getElementById("BD").style.display = "none";
+            document.getElementById("BE").style.display = "none"; 
+        	document.getElementById("gotoD").style.display = "none";
+        	document.getElementById("gotoE").style.display = "none";
           document.getElementById("clock").style.display = "";
           document.getElementById("goback").style.display = "";
             var el = document.getElementById('insertHere');
-            el.innerHTML = '<div>codio takes 20 minutes</div>';
+            el.innerHTML = '<div>MLH 50 minutes</div>';
         }
       function goback(){
+        document.getElementById("goback").style.display = "none";
         document.getElementById("clock").style.display = "none";
-        document.getElementById("gotoC").style.display = "none";
+        document.getElementById("gotoE").sgit add .tyle.display = "none";
+        document.getElementById("Bpaper").style.display = "";
                     var el = document.getElementById('insertHere');
-            el.innerHTML = '<div>hes written the shorest total path on his hand, so he throws the paper away to update his to-do list</div><div>shortest - A-B = 10mins</div>';
+            el.innerHTML = '<div>hes written the shorest total path on his hand, so he throws the paper away to update his to-do list</div><div>shortest - A-B-D = 25mins</div>';
       }
 
     </script>
@@ -73,12 +75,12 @@
 
 <body>
     <img id="clock" src="clock.gif" style="display: none;" width="400" height="400"/>
-    <img id="AB" src="SHBranchAB.jpg" style="visibility: visible;" width="400" height="400"/>
-    <img id="AC" src="SHBranchAC.jpg" style="visibility: visible;" width="400" height="400"/>
-     <input type="submit" id="gotoB" value="Path to B" onclick="gotoB()"/>
-    <input type="submit" id="gotoC" value="Path to C" onclick="gotoC()"/>   
+    <img id="BD" src="SHBranchBD.jpg" style="visibility: visible;" width="400" height="400"/>
+    <img id="BE" src="SHBranchBE.jpg" style="visibility: visible;" width="400" height="400"/>
+     <input type="submit" id="gotoD" value="Path to B" onclick="gotoD()"/>
+    <input type="submit" id="gotoE" value="Path to C" onclick="gotoE()"/>   
   <input type="submit" id="goback" style="display: none;"value="Go back to A" onclick="goback()"/>  
-      <img id="Apaper" src="Apaper.jpg" style="display: none;"  width="400" height="400"/>
+      <img id="Bpaper" src="Bpaper.jpg" style="display: none;"  width="400" height="400"/>
     <img id="3" src="3.jpg" style="display: none;" width="400" height="400"/>
     <div id = "insertHere">
       
