@@ -1,5 +1,7 @@
-from B - takes B ut of bag 
-split is MLH and BLOOMBERG 
-MLH 50 mins 
-bloomberg is 15 
-go back to A 
+AlgERRithm Chapter 5
+
+He continues to proceed through the all of the points.
+And so, he finished his great map.
+Along the way, he kept rewriting on his hand, front and back, crossing out numbers, now
+knowing the shortest path.
+*Which of the following is the quickest path?*

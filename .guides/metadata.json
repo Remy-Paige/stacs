@@ -25,7 +25,18 @@
   {
    "id": "a5191b4e-39b8-b965-d1b0-3d3878cb33a",
    "title": "algorithm",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "webgame/a-bc.html",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/algorithm-a519.md",
@@ -42,7 +53,7 @@
      "action": "close"
     },
     {
-     "path": "webgame/a-bc.html",
+     "path": "webgame/b-dehtml",
      "panel": 0,
      "action": "open"
     }
@@ -58,7 +69,13 @@
   {
    "id": "4d49d4ce-70f9-a9ee-6e8b-44756afdda3",
    "title": "problem solve",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/problem-solve-4d49.md",

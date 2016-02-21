@@ -1,12 +1,5 @@
 
-Introducing Dijkstras.
 ![Dijkstras](.guides/img/Dijkstra.gif)
-
-Dijkstras is a hacker with a problem. He knows that there is a wonderful blessing of a hog roast coming, and he also knows that when it arrives he will have to battle through all the sponsors eagar to talk to him about their internships to get to it.
-
-To solve this 
-
-
 
 It was a good day at the Stacs Hackathon. Programmers typing, Hackers coding. Left and 
 right, forward and back.
