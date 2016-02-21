@@ -1,5 +1,3 @@
-Algerrithm Chapter 3
-
 Dijkstra started at point A, so he got piece of paper A out of his bag and threw it away
 so he knew not to approach the destination again.
 From there, he could go to points B or C.

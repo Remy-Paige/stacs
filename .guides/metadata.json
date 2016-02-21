@@ -31,7 +31,7 @@
      "action": "close"
     },
     {
-     "path": "webgame/a-bc.html",
+     "path": "#preview: /webgame/a-bc.html",
      "panel": 0,
      "action": "open"
     }
@@ -53,7 +53,7 @@
      "action": "close"
     },
     {
-     "path": "webgame/b-dehtml",
+     "path": "#preview: /webgame/b-de.html",
      "panel": 0,
      "action": "open"
     }
@@ -62,34 +62,6 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/problem-solve-7230.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "4d49d4ce-70f9-a9ee-6e8b-44756afdda3",
-   "title": "problem solve",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/problem-solve-4d49.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "7cc03b33-f5d7-88b0-f33d-523adf04ce5b",
-   "title": "hogroast",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/hogroast-7cc0.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

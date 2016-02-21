@@ -28,7 +28,5 @@ The patience of anyone waiting in line for The Roast...
 has been a test that day.
 What you may not know is that someone, one of the many, might have had the hardest time
 getting through that test.
-For he/she forgot to eat breakfast and lunch, the level of his/her hunger is immeasurable.
-Immediately when word of of The Arrival of the Roast was heard to all, our protagonist
-needed to use Dijkstra's Algorithm to find the quickest route to obtain the righteous
-meat.
+Because they forgot to eat breakfast and lunch, the level of their hunger has become immeasurable.
+Knowing that they needed to ensure they got a good meal, they began to prepare to implement Dijkstra's algorithum
